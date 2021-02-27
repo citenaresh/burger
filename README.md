@@ -28,7 +28,7 @@ This is a server side application, so you can not instal on client side but you 
 
 ## Usage
 
-To use the app, you just need to click on the [App Link]("https://blah.blah.blah.herokuapp.com/")
+To use the app, you just need to click on the [App Link]("https://burgerace.herokuapp.com/")
 
 
 ## License
