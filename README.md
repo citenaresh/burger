@@ -4,7 +4,8 @@
 
 ## Description
 
-This is a web application which is used for logging burgers. In this app users can input the name of the burger they would like to eat. When the user submits the burger name (press the add Burger button), that burger will be displayed on the left side of the page to be devoured. And when the user click on the devour it button adjacent to a certain burger, the burger will be moved to the right side of the page undere devoured burger section
+This is a web application which is used for logging burgers. In this app users can input the name of the burger they would like to eat. When the user submits the burger name (press the add Burger button), that burger will be displayed on the left side of the page to be devoured. And when the user click on the devour it button adjacent to a certain burger, the burger will be moved to the right side of the page undere devoured burger section.
+You can use the app live on [App Link] (https://burgerace.herokuapp.com)
 
 ## Demo
 
